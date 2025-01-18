@@ -63,7 +63,7 @@ This framework have a lot of feature that grants to you and your team all of you
 
 ### Supported Languages
 
-* [![Javascript](https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript&logoColor=61DAFB)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+* [![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=61DAFB)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

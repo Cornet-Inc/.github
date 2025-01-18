@@ -51,7 +51,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot](images/screenshot.png)](https://cornet.vercel.app)
 
 This organization was created to maintain the Cornet Framework, it's self a tool to help discord app developers in your projects.
 
@@ -63,7 +63,7 @@ This framework have a lot of feature that grants to you and your team all of you
 
 ### Supported Languages
 
-* [![Javascript][Javascript][Javascript-url]]
+* [![Javascript](https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript&logoColor=61DAFB)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -99,13 +99,4 @@ Cornet Inc. - [website](https://cornet.vercel.app) - cornet.incorporation@gmail.
 
 Project Link: [github.com/Cornet-Inc](https://github.com/Cornet-Inc)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-screenshot]: images/screenshot.png
-[React.js]: https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript&logoColor=61DAFB
-[React-url]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
+<p align="right">(<a href="#readme-top">back to top</a>)</p> 
